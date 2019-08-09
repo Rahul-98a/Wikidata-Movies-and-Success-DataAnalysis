@@ -1,2 +1,2 @@
-# Wikidata-Movies-and-Success-DataAnalysis
+# Wikidata, Movies, and Success DataAnalysis
 The code for the project is provided in the two python notebooks Libraries that we used include include numpy, pandas, statsmodels, and scikit-learn. The notebooks take the json files provided as input, and no ouput file is created. Both notebooks use the same data. The Genres_and_Ratings notebook was used for the first part of our report, ‘The Effect of Movie Genres on Ratings’, and the Reviews_Profits_and_Popularity notebook was used for the second part of our report, ‘The Relationships between Movie Reviews, Profits, and Popularity’.
